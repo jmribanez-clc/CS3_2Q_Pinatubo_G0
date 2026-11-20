@@ -2,3 +2,6 @@
 
 # Jan Michael R. Ibanez
 This is the teacher account for GitHub.
+
+# Mark Paolo M. Cruz
+This was added with the personal account for GitHub
